@@ -50,8 +50,7 @@ Se prevé que respondiendo estas preguntas, se puedan construir mapas interactiv
 
 Ejemplos de la información disponible:
 
-!
-[Mapa de intensidad sísmica del terremoto de Nicoya (2012)](Nicoya-2012.jpg)
+![Mapa de intensidad sísmica del terremoto de Nicoya (2012)](Nicoya-2012.jpg)
 *Mapa de intensidades (ShakeMap) del terremoto de Nicoya, Costa Rica, de magnitud 6.5, ocurrido el 24 de octubre de 2012. Fuente: [USGS Earthquake Hazards Program](https://earthquake.usgs.gov/earthquakes/eventpage/usp000jucg).*
 
 ![Daños asociados al terremoto de Cinchona de 2009](Cinchona-2009.jpg)
